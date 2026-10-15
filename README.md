@@ -29,7 +29,7 @@ L'application permet de charger ce fichier et de réviser la partie coup par cou
 Un tableau de bord affiche le taux de victoire, la vitesse moyenne de décision et la courbe d'évolution du score d’un joueur.
 
 
-# 3. Restdictions Stricte :
+# Restdictions Stricte :
 - Aucun framework JS (pas de React, Vue, Angular, Svelte, etc.).
 - Aucun thème CSS (vous pouvez utiliser Bootstrap ou Tailwindcss sans utiliser les thèmes existants sur Internet).
 - Aucun serveur Backend de base de données (pas de Node.js/Express avec DB, Firebase, Supabase, etc.).
